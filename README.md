@@ -1,4 +1,4 @@
-# Awesome-AI
+# Awesome-Quantum
 
 A curated list of articles, books, courses, infographics and many more around Quantum Computing
 
@@ -7,14 +7,16 @@ A curated list of articles, books, courses, infographics and many more around Qu
 
 ### :pencil: Articles
 - [What is Quantum Computing?](https://www.ibm.com/quantum-computing/what-is-quantum-computing/)
-
+- [What Makes Quantum Computing So Hard to Explain?](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/)
+- [Quantum Computing](https://www.explainthatstuff.com/quantum-computing.html)
 
 ### :page_facing_up:Courses
 - [Introduction to Quantum Computing course - Qiskit](https://learn.qiskit.org/course/introduction/why-quantum-computing)
 - [A free introduction to quantum computing and quantum mechanics](https://quantum.country)
 
 ### :books:Books
-
+- [Introduction to Classical and Quantum Computing - _Free ebook_](http://www.thomaswong.net)
+- [Quantum computing - A gentle introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149125645.pdf)
 
 ### :snowman:Quick guides
 
@@ -49,7 +51,7 @@ A curated list of articles, books, courses, infographics and many more around Qu
 ## Tips and Tricks
 
 ## Free books collection
-
+- [qosf](https://qosf.org/learn_quantum/#books)
 
 ## Datasets
 
