@@ -10,6 +10,7 @@ A curated list of articles, books, courses, infographics and many more around Qu
 - [What Makes Quantum Computing So Hard to Explain?](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/)
 - [Quantum Computing](https://www.explainthatstuff.com/quantum-computing.html)
 - [Introduction to Quantum Computing](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing)
+- [A guide to online resources for learning quantum computing](https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing)
 
 ### :page_facing_up:Courses
 - [Introduction to Quantum Computing course - Qiskit](https://learn.qiskit.org/course/introduction/why-quantum-computing)
